@@ -21,26 +21,3 @@ I am a **data science, applying programming to statistics** with extensive exper
 - **Core Competencies**: Data visualization, GIS mapping, statistical analysis, project coordination, forecasting models
 
 I like creating data-driven insights to shape strategic goals and solve complex problems, whether through creating project coordination tools or developing interactive visualizations.
-
-
-### 🧬 Academic and Professional Background
-
-I have a **MSc Honours in Bioscience and Biomedical Science** specializing in bioinformatics and genetics from my university in Scotland, and am currently expanding my development knowledge in **Computer Programming and Analysis** at Fanshawe College. 
-
-
-### 🌐 Cross-Cultural Communication
-
-I’m fluent in **English** and **Spanish**, with intermediate proficiency in **French**, and basic **Japanese**.
-
-
-### 📈 Projects & Interests
-
-I am deeply interested in exploring data science. Key areas of focus include:
-
-- **Bioinformatics in genomics**: Data-driven insights in healthcare and biological research.
-- **Real Estate Analytics**: Advanced data solutions for site planning, acquisition, and market forecasting.
-
-
-### 💬 Let’s Talk
-
-Always open to learning something new - feel free to reach out!
